@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LaytonU420
 - 👀 I’m interested in c++, web development and api
-- 🌱 I’m currently learninge verything
+- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me Layton420 is my discord
 

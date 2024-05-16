@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LaytonU420
+- 👋 Hi, I’m @L8yton
 - 👀 I’m well versed in c++,python,rust,bash,Lua,php,html/css and ruby.
 - 🌱 I’m currently Working as a pen tester and ethical hacker.
 - 💞️ I’m looking to collaborate on nothing at the moment.
